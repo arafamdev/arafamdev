@@ -77,10 +77,13 @@ I'm currently expanding my knowledge of TypeScript, advanced React patterns and 
 
 ## Languages
 
-- Portuguese
-- English
-- Russian
-- Guinea-Bissau Creole
+## Languages
+
+- **Portuguese** — Native
+- **Guinea-Bissau Creole** — Native
+- **English** — Fluent
+- **Russian** — Fluent
+- **Spanish** — Advanced
 
 ## Let's connect
 
