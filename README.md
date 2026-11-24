@@ -77,8 +77,6 @@ I'm currently expanding my knowledge of TypeScript, advanced React patterns and 
 
 ## Languages
 
-## Languages
-
 - **Portuguese** — Native
 - **Guinea-Bissau Creole** — Native
 - **English** — Fluent
